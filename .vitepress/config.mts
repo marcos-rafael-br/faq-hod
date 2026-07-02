@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: "/faq-hod/",
   title: "FAQ Interno",
   description: "Base de Conhecimento para Analistas",
 
